@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Fabricio 👋
 
-<!--
-**fabri-lsq/fabri-lsq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering student at UTN FRBA.
 
-Here are some ideas to get you started:
+Interested in QA, software testing, web development and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- C++
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+## Projects
+- Personal virtual library website hosted with GitHub Pages
